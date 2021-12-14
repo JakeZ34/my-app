@@ -45,6 +45,7 @@ ul {
 .game {
     display: flex;
     flex-direction: row;
+    padding-left: 200px;
 }
 
 .game-info {
